@@ -1,13 +1,13 @@
-Inclusive Remote Hub :- Trransformative digital platform designed to democratize access to remote work for marginalized and underserved communities.
+ <img width="1024" height="1024" alt="Calligraphy style " src="https://github.com/user-attachments/assets/7bb37b54-3784-4e91-aac3-07e74ffda60a" />
 
-By leveraging cutting-edge AI and geospatial technologies, it intelligently matches individuals with remote job opportunities tailored to their skillsets, connectivity levels, and local infrastructure.
-
-The platform also offers personalized upskilling pathways and mentorship, fostering economic empowerment and digital inclusion at scale
-unlock global workspaces for local talent—no matter where they live.
-
-Empower rural and semi-urban talent with access to global workspaces, fostering economic inclusion and digital literacy.
+-> Inclusive Remote Hub :- Trransformative digital platform designed to democratize access to remote work for marginalized and underserved communities.
+-> By leveraging cutting-edge AI and geospatial technologies, it intelligently matches individuals with remote job opportunities tailored to their skillsets, connectivity -    levels, and local infrastructure.
+-> The platform also offers personalized upskilling pathways and mentorship, fostering economic empowerment and digital inclusion at scale
+   unlock global workspaces for local talent—no matter where they live.
+-> Empower rural and semi-urban talent with access to global workspaces, fostering economic inclusion and digital literacy.
 
 Google Technologies Implemented:-
+
 •	Gemini API
 •	Firebase
 •	Vertex AI
@@ -15,18 +15,27 @@ Google Technologies Implemented:-
 •	Google Classroom API
 •	Cloud Storage 
 
-Gemini API: serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.
-       Firebase ensures secure authentication, real-time data synchronization, and scalable backend infrastructure.
+<img width="1024" height="1024" alt="traits " src="https://github.com/user-attachments/assets/ab6219e2-8c91-4f6e-a6b5-2eb0518db649" />
 
-Vertex AI: powers predictive analytics to assess job compatibility and recommend personalized learning paths.
+<> Gemini API:
+   serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.<><>
 
-Google Maps API: evaluates local infrastructure and connectivity to determine feasible remote work setups.
+<> Firebase ensures secure authentication, real-time data synchronization, and scalable backend infrastructure.
 
-Google Classroom API: integrates curated learning modules to bridge skill gaps and prepare users for remote roles.
+<> Vertex AI:
+   powers predictive analytics to assess job compatibility and recommend personalized learning paths.
 
-Google Cloud Storage: securely stores resumes, training materials, and project files, ensuring seamless access and collaboration across devices.
+<> Google Maps API: 
+   evaluates local infrastructure and connectivity to determine feasible remote work setups.
 
-Google Meet: enables virtual mentorship sessions, team collaborations, and inclusive interviews, breaking geographical barriers and fostering human connection.
+<> Google Classroom API: 
+   integrates curated learning modules to bridge skill gaps and prepare users for remote roles.
+
+<> Google Cloud Storage: 
+   securely stores resumes, training materials, and project files, ensuring seamless access and collaboration across devices.
+
+<> Google Meet: 
+   enables virtual mentorship sessions, team collaborations, and inclusive interviews, breaking geographical barriers and fostering human connection.
 
 OVER_VIEW:-
 
@@ -47,7 +56,8 @@ OVER_VIEW:-
 ![WhatsApp Image 2026-01-11 at 07 32 21 (1)](https://github.com/user-attachments/assets/c5f7261e-0342-4f6f-959d-32a4e5948e99)
 
 🛠 Installation:-
-Prerequisites
+   Prerequisites
+- IDE(Android Stuidio)
 - Java 17+
 - MySQL 8.0+
 - Node.js 18+ (for frontend prototype)
