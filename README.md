@@ -74,7 +74,7 @@ inclusive-remote-hub/
          │── README.md       # Project overview
 
 # Clone the repository
-git clone https:///github.com/pawarpresthi/Job-Yatra
+git clone https://github.com/pawarpresthi/Job-Yatra-/blob/main/README.md
 
 # Navigate to project directory
 cd inclusive-remote-hub
